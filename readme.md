@@ -1,0 +1,3 @@
+Odin-Recipes
+
+This project is an attempt to use the basic html skills learned in The Odin Project - HTML Foundations Section. In it, I will attempt to create a simple website which uses an html index page with the proper html structure. I will also attempt to correctly place links and images on the site, using both absolute and relative links. I will practice the basic workflow of using Git by adding files and commiting files. I will also attempt to include well-written comments as I commit files. Finally I will practice pushing my changes to my repository on GitHub.
